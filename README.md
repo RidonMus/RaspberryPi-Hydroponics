@@ -21,10 +21,10 @@ After everything is automated, I might add a web dashboard to monitor everything
 
 ## Repo Breakdown  
 
-/STL_Files # 3D-printed parts (because why not?)
-/Hardware # Pump, tubing, sensors (the boring but necessary stuff)
-/Software # Python scripts for automation (don’t ask me why it’s not working yet)
-README.md # This document (obviously)
+/STL_Files # 3D-printed parts (because why not?)  
+/Hardware # Pump, tubing, sensors (the boring but necessary stuff)  
+/Software # Python scripts for automation (don’t ask me why it’s not working yet)  
+README.md # This document (obviously)  
 
 
 Let’s hope the plants don’t start plotting against me. 🤞
