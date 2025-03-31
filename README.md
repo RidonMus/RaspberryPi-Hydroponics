@@ -1,5 +1,3 @@
-# RaspberryPi-Hydroponics
-
 # Raspberry Pi Vertical Hydroponic System  
 
 ## What’s This About?  
